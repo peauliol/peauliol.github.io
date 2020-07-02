@@ -4,6 +4,9 @@
 
 Repository containg the file used to create my persona page in github.io.
 
+### Running
+jekyll serve
+
 ### References
 
 [1] Jonathan McGlone "Creating and Hosting a Personal Site on GitHub": http://jmcglone.com/guides/github-pages/
